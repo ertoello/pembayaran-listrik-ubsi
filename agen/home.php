@@ -12,7 +12,7 @@
 	<div class="container-fluid">
 
 		<div class="row">
-				<img src="../images/gif.jpg" alt="gif.jpg" width="100%">
+				<img src="../images/gif2.png" alt="gif2.png" width="50%" style="margin-left: 370px; margin-top: 110px ;">
 			<!-- <div class="col-md-12">
 				<div class="alert alert-success alert-dimis">
 					<center><h4>LOGIN BERHASIL <?php echo $_SESSION['nama_agen']; ?></h4></center>

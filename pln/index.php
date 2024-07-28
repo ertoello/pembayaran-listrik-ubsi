@@ -78,7 +78,7 @@
 						<!-- footer -->
 						<div class="panel-footer">
 							<center>
-								&copy;Copyright 2024 by Yohanes Serpiyanto (<a href="https://www.instagram.com/ertoello/">Elo</a>)
+								&copy;Copyright 2024 by<a href="https://www.instagram.com/ertoello/">Yohanes Serpiyanto Elo</a>
 							</center>
 						</div>
 						<!-- end footer -->

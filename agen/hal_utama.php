@@ -121,7 +121,7 @@
 	?>
 
 	<br><br>
-	<footer class="container-fluid bg-4 text-center">
+	<footer class="container-fluid bg-4 text-center" style="background-color: #fff; margin-top: 45px;">
 		<p>
 		  	<strong>Copyright&nbsp;&copy;&nbsp;2024 <a target="_blank" href="https://www.instagram.com/ertoello/">Erto Ello</a>.</strong>&nbsp;
 		  	<br>

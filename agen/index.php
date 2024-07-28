@@ -78,7 +78,7 @@
 
 						<!-- footer -->
 						<div class="panel-footer">
-							<center>&copy;<?php echo date("Y"); ?> - Yohanes Serpiyanto Elo</center>
+							<center>Copyright&copy; <?php echo date("Y"); ?> - Yohanes Serpiyanto Elo</center>
 						</div>
 						<!-- end footer -->
 					</div>

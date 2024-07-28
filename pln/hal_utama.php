@@ -37,7 +37,7 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="kelola">
 								<div class="glyphicon glyphicon-edit"></div>&nbsp;
-								<strong>DATA DASAR</strong>&nbsp;
+								<strong>DATA KELOLA</strong>&nbsp;
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="kelola">

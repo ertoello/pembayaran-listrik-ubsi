@@ -47,7 +47,7 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="transaksi">
 									<div class="glyphicon glyphicon-shopping-cart"></div>&nbsp;
-									<strong>TRANSAKSI</strong>&nbsp;
+									<strong>KELOLA PEMBAYARAN PELANGGAN</strong>&nbsp;
 									<span class="caret"></span>
 								</a>
 								<ul class="dropdown-menu" aria-labelledbay="transaksi">
@@ -67,7 +67,7 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="laporan">
 									<div class="glyphicon glyphicon-duplicate"></div>&nbsp;
-									<strong>LAPORAN</strong>&nbsp;
+									<strong>RIWAYAT TRANSAKSI PELANGGAN</strong>&nbsp;
 									<span class="caret"></span>
 								</a>
 								<ul class="dropdown-menu" arai-labelledby="laporan">
@@ -123,9 +123,9 @@
 	<br><br>
 	<footer class="container-fluid bg-4 text-center" style="background-color: #fff; margin-top: 45px;">
 		<p>
-		  	<strong>Copyright&nbsp;&copy;&nbsp;2024 <a target="_blank" href="https://www.instagram.com/ertoello/">Erto Ello</a>.</strong>&nbsp;
-		  	<br>
-		  	<strong>All rights reserved for Sertifikasi LSP Analisis Program</strong>
+			<strong>Copyright&nbsp;&copy;&nbsp;Sertifikasi LSP Analisis Program 2024 by <a target="_blank" href="https://www.instagram.com/ertoello/">Yohanes Serpiyanto Elo</a></strong>&nbsp;
+			<br>
+			<strong>Aplikasi Pembayaran Listrik Universitas Bina Sarana Informatika</strong>
 		</p>
 	</footer>
 

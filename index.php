@@ -15,7 +15,7 @@
 						<h3>Maaf Halaman Tidak Ada :(</h3>
 					</div>
 					<div class="panel-footer">
-						<center>&copy;Copyright 2024 by Yohanes Serpiyanto Elo</center>
+						<center>&copy;Copyright Sertifikasi LSP Analisis Program 2024 by Yohanes Serpiyanto Elo</center>
 					</div>
 				</div>
 			</div>

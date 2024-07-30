@@ -27,7 +27,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FORM LOGIN SETROOM PAYMENT</title>
+	<title>FORM LOGIN AGEN PLN</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 </head>
 <body style="background:url('../images/bg_agen1.jpg');">
@@ -78,7 +78,7 @@
 
 						<!-- footer -->
 						<div class="panel-footer">
-							<center>Copyright&copy; <?php echo date("Y"); ?> - Yohanes Serpiyanto Elo</center>
+							<center>Copyright&copy; Sertifikasi LSP Analisis Program <?php echo date("Y"); ?> by Yohanes Serpiyanto Elo</center>
 						</div>
 						<!-- end footer -->
 					</div>

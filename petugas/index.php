@@ -26,7 +26,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FORM LOGIN PLN</title>
+	<title>FORM LOGIN PETUGAS PLN</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 </head>
 <body style="background:url('../images/bg_pln1.jpg');">
@@ -78,7 +78,7 @@
 						<!-- footer -->
 						<div class="panel-footer">
 							<center>
-								&copy;Copyright 2024 by<a href="https://www.instagram.com/ertoello/">Yohanes Serpiyanto Elo</a>
+								&copy;Copyright Sertifikasi LSP Analisis Program 2024 by <a href="https://www.instagram.com/ertoello/">Yohanes Serpiyanto Elo</a>
 							</center>
 						</div>
 						<!-- end footer -->

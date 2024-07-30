@@ -37,7 +37,7 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="kelola">
 								<div class="glyphicon glyphicon-edit"></div>&nbsp;
-								<strong>DATA KELOLA</strong>&nbsp;
+								<strong>KELOLA DATA</strong>&nbsp;
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="kelola">
@@ -58,7 +58,7 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="transaksi">
 								<div class="glyphicon glyphicon-refresh"></div>&nbsp;
-								<strong>TRANSAKSI</strong>&nbsp;
+								<strong>STATUS TRANSAKSI PELANGGAN</strong>&nbsp;
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="transaksi">
@@ -73,7 +73,7 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="laporan">
 								<div class="glyphicon glyphicon-duplicate"></div>&nbsp;
-								<strong>LAPORAN</strong>&nbsp;
+								<strong>LAPORAN DATA & TAGIHAN PELANGGAN</strong>&nbsp;
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="laporan">
@@ -145,9 +145,9 @@
 	<br><br>
 	<footer class="container-fluid bg-4 text-center" style="background-color: #fffefe">
 		<p>
-			<strong>Copyright&nbsp;&copy;&nbsp;2024 <a target="_blank" href="https://www.instagram.com/ertoello/">Erto Ello</a>.</strong>&nbsp;
+			<strong>Copyright&nbsp;&copy;&nbsp; Sertifikasi LSP Analisis Program 2024 by <a target="_blank" href="https://www.instagram.com/ertoello/">Yohanes Serpiyanto Elo</a></strong>&nbsp;
 			<br>
-			<strong>All rights reserved for Sertifikasi LSP Analisis Program</strong>
+			<strong>Aplikasi Pembayaran Listrik Universitas Bina Sarana Informatika</strong>
 		</p>
 	</footer>
 	
